@@ -64,3 +64,23 @@ The dashboard is shown below:
   - **Charts and Visualizations**: for risk factors and demographic trends.
   - **Interactive Dashboard with slicers**: to view data by various categories.
 Summary Sheet with insights, risk factors, and demographic trends.
+
+## Summary/Insights
+**Risk Factors by Gender**:
+
+Across all risk factors (Diabetes, Hypertension, Smoking, and Others), the average data value percentage is relatively close for each gender.
+Males have a slightly higher average data value percentage across most conditions, suggesting that males may have a marginally higher prevalence or risk factor for these health issues.
+Risk Factors by Age:
+
+The data indicates that the prevalence of eye health issues or related risk factors increases with age, peaking in the "Above 85" category (21.07%) and the "Unknown" age category (22.14%).
+Younger age groups, such as "18-39" (16.87%) and "40-64" (18.12%), have lower average data values, suggesting fewer vision health issues or risk factors among younger individuals.
+Risk Factors by Ethnicity:
+
+Among ethnic groups, "North American Native" has the highest average data value percentage (20.66%), followed by "Asian" (19.32%). This suggests a potentially higher prevalence or risk among these groups.
+"White, non-Hispanic" has the lowest average percentage (17.16%), indicating relatively fewer vision-related issues or risk factors among this group.
+Confidence Limits:
+
+The average of the low confidence limit is 11.26%, and the high confidence limit is 14.76%, which gives a range for the possible values, suggesting some variability in the data.
+
+
+
